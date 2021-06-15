@@ -1,0 +1,32 @@
+
+.grupo {
+    background-color: #e8e8e8;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.separador {
+    flex: 1;
+    padding: 20px;
+}
+
+.borrar {
+    background-color: red;
+}
+
+.desbloquear {
+    background-color: green;
+}
+
+.input {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+
+
+
+
